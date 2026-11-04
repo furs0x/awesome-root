@@ -1,0 +1,61 @@
+# 其他品牌
+
+Other brands (Sony, Motorola, Nothing, realme, Honor, Tecno, and so on). Every section below is an empty template.
+
+索尼、摩托罗拉、Nothing、realme、荣耀、传音（Tecno / Infinix / itel）、华硕等放在这里。一条记录只写一个品牌加一个机型。品牌字段填写实际品牌，不要写“其他”。
+
+下列 3 条都是 **TEMPLATE / 待核实**。它们不是已知可用方案，不含工具名、CVE、校验值或下载链接。补充真实记录前，请阅读仓库根目录的 [README.md](../../README.md) 和 [CONTRIBUTING.md](../../CONTRIBUTING.md)，并按 [docs/template.md](../../docs/template.md) 填写。安装包不要提交到本仓库，用来源页面或上游 Release 的外部链接。
+
+## 占位条目
+
+### 1. [TEMPLATE / 待核实] 占位机型 1
+
+本节省位用，尚未对应任何已核实的公开方案。字段为空或 TBD。不要根据本节对设备执行操作。
+
+| 字段 | 内容 |
+| --- | --- |
+| 品牌 | TBD |
+| 机型 | TBD |
+| 代号 | TBD |
+| Android版本 | TBD |
+| 方案名称 | TBD |
+| 类型 | 临时root |
+| 来源链接 | TBD |
+| 最后核实日期 | TBD |
+| 注意事项 | TBD |
+| 状态 | TEMPLATE / 待核实 |
+
+### 2. [TEMPLATE / 待核实] 占位机型 2
+
+本节省位用，尚未对应任何已核实的公开方案。字段为空或 TBD。不要根据本节对设备执行操作。
+
+| 字段 | 内容 |
+| --- | --- |
+| 品牌 | TBD |
+| 机型 | TBD |
+| 代号 | TBD |
+| Android版本 | TBD |
+| 方案名称 | TBD |
+| 类型 | 临时root |
+| 来源链接 | TBD |
+| 最后核实日期 | TBD |
+| 注意事项 | TBD |
+| 状态 | TEMPLATE / 待核实 |
+
+### 3. [TEMPLATE / 待核实] 占位机型 3
+
+本节省位用，尚未对应任何已核实的公开方案。字段为空或 TBD。不要根据本节对设备执行操作。
+
+| 字段 | 内容 |
+| --- | --- |
+| 品牌 | TBD |
+| 机型 | TBD |
+| 代号 | TBD |
+| Android版本 | TBD |
+| 方案名称 | TBD |
+| 类型 | 临时root |
+| 来源链接 | TBD |
+| 最后核实日期 | TBD |
+| 注意事项 | TBD |
+| 状态 | TEMPLATE / 待核实 |
+
