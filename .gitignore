@@ -1,0 +1,24 @@
+# Installers and packaged binaries stay on upstream releases or other
+# external source links. Record that URL in the device entry. Do not
+# commit the files. Forcing these paths in with git add -f is out of policy.
+*.apk
+*.apks
+*.xapk
+*.zip
+*.aar
+*.dex
+*.jar
+*.so
+*.bin
+
+# Common junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.log
+.cache/
